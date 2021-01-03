@@ -12,6 +12,10 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DimasSekso/VK-APP/issues"
+  },
+  "homepage": "https://github.com/DimasSekso/VK-APP",
   "devDependencies": {
     "cross-env": "^5.2.0",
     "react-hot-loader": "^4.9.0",
